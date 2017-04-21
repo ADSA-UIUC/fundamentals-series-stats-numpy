@@ -5,12 +5,5 @@ Data Science Fundamentals Series using Jupyter/IPython notebook for the Associat
 
 [![Binder](http://mybinder.org/badge.svg)](http://mybinder.org:/repo/adsa-uiuc/fundamentals-series-stats-numpy)
 
-## To start
-* Download the zip file for this repository [here](https://github.com/ADSA-UIUC/fundamentals-series-stats-numpy/archive/master.zip).
-* Extract the zip file to any directory.
-* Open your terminal and navigate to the extracted directory.
-* Run the command `jupyter notebook`
-* A browser should open with the notebook. Begin learning!
-
 ## Installation Instructions
 Check out the [Python Series: Intro](https://github.com/adsa-uiuc/intro-to-python/) workshop for installation instructions.
