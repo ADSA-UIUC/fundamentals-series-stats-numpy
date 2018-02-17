@@ -1,4 +1,4 @@
-# ADSA Fall 2017 Workshop: Data Science Fundamentals Series - Numpy, Statistics and Probability
+# ADSA Spring 2018 Workshop: Data Science Fundamentals Series - Numpy, Statistics and Probability
 Data Science Fundamentals Series using Jupyter/IPython notebook for the Association of Data Science and Analytics at UIUC.
 
 ## Please sign in using the following link: 
